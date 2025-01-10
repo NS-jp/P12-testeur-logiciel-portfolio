@@ -2,19 +2,19 @@
     {
         "image": "image1.png",
         "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
-    },
-    {
-        "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Création de la page d'accueil du site web de l'agence de voyage Booki, en utilisant les langages HTML et CSS pour la mise en page et le design.",
+        "link": "https://github.com/NS-jp/P3-projet-Booki"
     },
     {
         "image": "image3.png",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Développement de composants React pour l'interface utilisateur du site web de l'entreprise Kasa, spécialisée dans la location d'appartements entre particuliers.",
+        "link": "https://github.com/NS-jp/P8_Projet_Kasa"
+    },
+    {
+        "image": "image4.png",
+        "title": "Eco Bliss Bath",
+        "text": "Rédaction et exécution de tests automatisés à l'aide de l'outil Cypress pour la société Eco Bliss Bath, spécialisée dans la vente de produits de beauté écoresponsables.",
+        "link": "https://github.com/NS-jp/P10_tests_automatis-es_boutique_en_ligne"
     }
 ]
