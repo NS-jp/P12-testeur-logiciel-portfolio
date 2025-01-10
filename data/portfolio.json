@@ -1,18 +1,18 @@
 [
     {
-        "image": "image1.png",
+        "image": "booki.webp",
         "title": "Booki",
         "text": "Création de la page d'accueil du site web de l'agence de voyage Booki, en utilisant les langages HTML et CSS pour la mise en page et le design.",
         "link": "https://github.com/NS-jp/P3-projet-Booki"
     },
     {
-        "image": "image3.png",
+        "image": "kasa.webp",
         "title": "Kasa",
         "text": "Développement de composants React pour l'interface utilisateur du site web de l'entreprise Kasa, spécialisée dans la location d'appartements entre particuliers.",
         "link": "https://github.com/NS-jp/P8_Projet_Kasa"
     },
     {
-        "image": "image4.png",
+        "image": "ecobliss.webp",
         "title": "Eco Bliss Bath",
         "text": "Rédaction et exécution de tests automatisés à l'aide de l'outil Cypress pour la société Eco Bliss Bath, spécialisée dans la vente de produits de beauté écoresponsables.",
         "link": "https://github.com/NS-jp/P10_tests_automatis-es_boutique_en_ligne"
